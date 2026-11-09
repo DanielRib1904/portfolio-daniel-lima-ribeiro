@@ -27,7 +27,7 @@ Este projeto utilizou inteligência artificial (Gemini) estritamente como ferram
 
 ## 💻 Deploy do projeto
 
-- **Site Publicado (GitHub Pages):** [Clique para acessar](https://seu-usuario.github.io/at3-calculadora-imc/)
+- **Site Publicado (GitHub Pages):** [Clique para acessar](https://danielrib1904.github.io/calculadora-imc/)
 - **Repositório do Código-Fonte:** [Acessar no GitHub](https://github.com/DanielRib1904/portfolio-daniel-lima)
 
 ---
