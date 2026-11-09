@@ -41,7 +41,7 @@ Este projeto utilizou inteligência artificial (Gemini) em estrita conformidade 
 
 ## 💻 Deploy e Acesso ao Projeto
 
-* **Site Publicado (GitHub Pages):** [Clique para acessar](https://diogocora2008-blip.github.io/entrega/jogos.html)
+* **Site Publicado (GitHub Pages):** [Clique para acessar](https://danielrib1904.github.io/Atividade-04-/)
 * **Repositório do Código-Fonte:** [Acessar no GitHub](https://github.com/DanielRib1904/portfolio-daniel-lima)
 
 ---
