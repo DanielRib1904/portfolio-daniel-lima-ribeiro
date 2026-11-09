@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: blueviolet
+}
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+section {
+    background-color: white;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: #222;
+}
+
+h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+section article {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    text-align: center;
+    margin: 1%;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #222222;
+    color: white;
+}
+
+article img {
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    margin: 15px auto;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section article:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+}
+
+.noticias article {
+    background-color: #222222;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.noticias article img {
+    width: 100%;
+    height: 250px;
+  object-fit: contain;
+    display: block;
+    margin: 15px auto;
+    border-radius: 8px;
+}
+
+.produtos article img {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+    display: block;
+    margin: 15px auto;
+    border-radius: 8px;
+}
