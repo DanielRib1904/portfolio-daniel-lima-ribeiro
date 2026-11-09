@@ -1,0 +1,92 @@
+:root {
+    --fundo: #0f172a;
+    --painel: #1e293b;
+    --borda: #334155;
+    --texto: #e2e8f0;
+    --destaque: #14b8a6;
+}
+
+body {
+    background: var(--fundo);
+    color: var(--texto);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.topo {
+    background: linear-gradient(90deg, #0d9488, #0891b2);
+    padding: 1rem 0;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+.painel {
+    background: var(--painel);
+    border: 1px solid var(--borda);
+    border-radius: 18px;
+}
+
+.painel .form-control {
+    background: var(--fundo);
+    border: 1px solid var(--borda);
+    color: var(--texto);
+}
+
+.painel .form-control:focus {
+    border-color: var(--destaque);
+    box-shadow: 0 0 0 0.2rem rgba(20, 184, 166, 0.25);
+}
+
+.btn-calc {
+    background: var(--destaque);
+    border: none;
+    color: #04211e;
+    font-weight: 600;
+}
+
+.btn-calc:hover {
+    background: #2dd4bf;
+}
+
+.faixa {
+    height: 14px;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #38bdf8 0%, #22c55e 25%, #facc15 50%, #fb923c 70%, #ef4444 100%);
+    position: relative;
+    margin-top: 1.5rem;
+}
+
+.marcador {
+    position: absolute;
+    top: -6px;
+    width: 6px;
+    height: 26px;
+    background: #fff;
+    border-radius: 3px;
+    transform: translateX(-50%);
+    transition: left 0.5s ease;
+}
+
+.numero-imc {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.tabela-imc {
+    color: var(--texto);
+    --bs-table-bg: transparent;
+    --bs-table-color: var(--texto);
+    border-color: var(--borda);
+}
+
+.tabela-imc tr.ativa td {
+    background: rgba(20, 184, 166, 0.25);
+    font-weight: 700;
+}
+
+footer {
+    margin-top: auto;
+    border-top: 1px solid var(--borda);
+}
