@@ -32,7 +32,6 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🌐 Desenvolvimento Web
 
@@ -45,11 +44,6 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 
 ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Hashtag Treinamentos](https://img.shields.io/badge/Hashtag_Treinamentos-FFD700?style=for-the-badge&logo=python&logoColor=black)
-
-#### 🤖 Inteligência Artificial & Ciência de Dados
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
