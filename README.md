@@ -20,7 +20,7 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 - 🐍 **Programação & Automação:** Aprofundando o domínio em linguagem Python e desenvolvimento de soluções pela plataforma **Hashtag Treinamentos**.
 - 🌐 **Desenvolvimento Front-End:** Experiência prática na criação de interfaces responsivas, estruturação semântica em HTML5/CSS3 e manipulação de DOM com JavaScript e Bootstrap.
 
-- **Habilidades Técnicas:** Python, Java, HTML5, CSS3, JavaScript, Bootstrap, PostgreSQL, Pandas, Scikit-Learn.
+- **Habilidades Técnicas:** Python, Java, HTML5, CSS3, JavaScript, Bootstrap.
 - **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
 - **Experiência/Projetos Relevantes:** Atuei em projetos acadêmicos e práticos onde desenvolvi soluções em Front-End, automação e modelagem de dados.
 
